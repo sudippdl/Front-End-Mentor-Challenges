@@ -1,5 +1,3 @@
-# Front-End-Mentor-Challenges
 
-Front End Projects to help build coding skills
 
 source: https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl
